@@ -36,7 +36,9 @@ const Content = () => {
                 className="pb-8 border-b border-solid border-[#FFFFFF] leading-[70px] text-[#FFFFFF] text-4xl font-medium text-right"
               >
                 <p>
-                  فایر مانیتور ، سیستم هوشمند اعلان حریق ، یک اقدام کوچک اما با
+                  فایر مانیتور ، سیستم هوشمند اعلان حریق ،
+                  <br />
+                  یک اقدام کوچک اما با
                   اهمیت بزرگ
                 </p>
               </div>
@@ -52,8 +54,8 @@ const Content = () => {
                     سخت افزارهوشمند
                   </button>
                 </div>
-                <div>
-                  <img src={line} alt="" />
+                <div className="w-full">
+                  <img src={line} className="w-full" alt="" />
                 </div>
               </div>
             </div>
@@ -69,11 +71,11 @@ const Content = () => {
                 </p>
               </div>
             </div>
-            <div className="w-[55%] flex justify-between items-center text-right text-[#FFFFFF]">
+            <div className="w-[55%] flex justify-end items-center text-right text-[#FFFFFF]">
               <p className="text-sm">
                 سیستم هوشمند اعلان حریق،یک اقدام کوچک اما با اهمیت بزرگ یک اقدام
               </p>
-              <div className="border-l-2 text-[#FFFFFF] h-24"></div>
+              <div className="border-l-2 text-[#FFFFFF] h-24 mx-8"></div>
               <p className="text-3xl font-black">سیستم هوشمند اعلان</p>
             </div>
           </div>
