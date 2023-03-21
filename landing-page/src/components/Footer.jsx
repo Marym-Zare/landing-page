@@ -3,8 +3,8 @@ import brand from "../assets/svgs/brand.svg"
 
 const Footer = () => {
   return (
-    <div className="sm:px-20 px-[16px] pb-20">
-      <div className="mt-[180px]">
+    <div className="sm:px-20 px-[16px] sm:pb-20">
+      <div className="sm:mt-[180px]">
         <div className="sm:py-16 py-[16px] sm:px-[70px] px-[16px] bg-[#FFFFFF] rounded-[2616px] flex flex-col-reverse sm:flex-row items-center text-center sm:text-right justify-between text-[#000000]">
           <div className="flex">
             <i className="text-[#000000] text-base sm:text-3xl pr-4 bi bi-instagram"></i>
