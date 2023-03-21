@@ -27,14 +27,14 @@ const Content = () => {
                 alt=""
               />
               <div className="bg-[#E72F23] text-[#FFFFFF] sm:py-8 sm:px-7 p-[10px] rounded-3xl absolute sm:top-[80%] sm:right-0 right-[46%] h-full sm:h-auto">
-                <div className="flex justify-end items-center pb-3">
+                <div className="flex justify-end items-center sm:pb-3 pb-2">
                   <p className="sm:text-lg text-base font-black pr-3">
                     نرم افزار فایرمانیتور
                   </p>
                   <i className="sm:text-4xl text-2xl bi bi-wifi"></i>
                 </div>
                 <div className="text-right">
-                  <p className="text-[10px]">
+                  <p className="text-[10px] sm:leading-9 leading-6">
                     اطمینان و امنیت در هر لحظه با دستگاه هشدار حریق ما! هرگز
                     نگران ایمنی خود در برابر آتش سوزی نباشید."
                   </p>
@@ -166,7 +166,7 @@ const Content = () => {
           <p className="text-2xl font-medium pb-6 sm:block hidden">
             ویژگی های فایرمانیتور ویژگی های فایرمانیتور
           </p>
-          <button className="h-[45px] ml-4 rounded-[80px] text-[#FFFFFF] text-base font-normal border border-solid border-[#FFFFFF] pb-1 px-6 mt-1 sm:block hidden">
+          <button className="h-[45px] ml-4 rounded-[80px] text-[#FFFFFF] text-base font-normal border border-solid border-[#FFFFFF] pb-1 px-6 mt-1 sm:inline hidden">
             سفارش فایرمانیتور
           </button>
         </div>
@@ -258,7 +258,7 @@ const Content = () => {
         <div className="sm:mt-[100px] mt-10">
           <div className="flex sm:flex-row flex-col-reverse justify-center items-center relative">
             <div className="sm:h-[201px] h-[364px] w-[100vw] bg-[#FFFFFF0D] sm:-left-20 -left-4 absolute"></div>
-            <div className="sm:w-[450px] w-[350px] bg-[#E72F23] sm:py-12 sm:px-[35px] p-6 text-right rounded-3xl sm:mr-8 mt-8 z-10">
+            <div className="sm:w-[450px] w-[350px] bg-[#E72F23] sm:py-12 sm:px-[35px] p-6 text-right rounded-3xl sm:mr-8 mt-8 sm:mt-0 z-10">
               <div className="flex text-right justify-between items-center pt-2 sm:pb-10 pb-3">
                 <i className="text-[#130F26] sm:text-3xl text-2xl pr-6 bi bi-star-fill"></i>
                 <p className="sm:text-4xl text-2xl text-[#FFFFFF] font-bold">ADVANCED</p>
