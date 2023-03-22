@@ -1,6 +1,6 @@
 import React from "react";
 import brand from "../assets/svgs/brand.svg";
-import { useTranslation } from "react-i18next";
+import { useTranslation } from "react-i18next"
 
 const Header = () => {
   const { t, i18n } = useTranslation();
@@ -15,7 +15,7 @@ const Header = () => {
         alt=""
       />
       <button className="sm:h-[54px] h-11 rounded-[64px] text-white sm:text-lg text-sm font-normal border border-solid border-[#FFFFFF] pb-1 px-6 mt-1">
-        {t("header.order-fire-monitor")}
+        {t("header.order-firemonitor")}
       </button>
     </div>
   );

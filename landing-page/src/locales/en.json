@@ -1,6 +1,52 @@
 {
-    "header":{
-     "login":"Enter Admin Panel",
-     "order-fire-monitor":"Order Fire Monitor"
+    "header": {
+     "login": "Enter Admin Panel",
+     "order-firemonitor": "Order Fire Monitor"
+    },
+    "content": {
+        "firemonitor-software": "Firemonitor Software",
+        "firemonitor-software-description": "Reassurance and security at all times with our fire alarm system! Never worry about your safety against fire.",
+        "hero-title": "Firemonitor, intelligent fire notification system, A small action but of great importance",
+        "hero-title-2": "A small action but of great importance",
+        "smart-hardware": "Smart hardware",
+        "immediate-notification-of-fire": "Immediate notification of fire",
+        "monitoring-sensors": "Monitoring sensors",
+        "intelligent-notification-system": "Intelligent notification system",
+        "intelligent-notification-system-description": "Intelligent fire alarm system, a small action but a very important action",
+        "firemonitor-order-registration": "Firemonitor order registration",
+        "firemonitor-order-registration-description": "to order",
+        "firemonitor-order-registration-description-2": "Click",
+        "firemonitor": "Firemonitor",
+        "firemonitor-description": "Confidence and security at any time with a fire alarm device",
+        "features-of-firemonitor": "Features of Firemonitor",
+        "features-of-firemonitor-description": "Features of Firemonitor Features of Firemonitor",
+        "order-firemonitor": "Order Firemonitor",
+        "immediate-online-notification-and-SMS-of-fire-danger": "Immediate online notification and SMS of fire danger in less than 1 minute",
+        "immediate-online-notification-and-SMS-of-fire-danger-description": "Product feature",
+        "monitoring-sensors-description": "Fire extinguisher, with automatic fire detection and operation",
+        "direct-fire-department-access": "Direct fire department access",
+        "direct-fire-department-access-description": "The fire extinguisher can quickly control the fire with automatic fire detection and quick operation",
+        "circuit-hardware-description": "Circuit hardware description",
+        "temperature-control-kit": "Temperature control kit",
+        "temperature-control-kit-description": "Of course, Google is not alone in its path and the US government",
+        "firemonitor-tariffs": "Firemonitor tariffs",
+        "model": "Model",
+        "advanced": "ADVANCED",
+        "possibilities": "Possibilities:",
+        "possibilities-description-1": "Amberhard said in her recent testimony that Dep",
+        "possibilities-description-2": "I was threatened and humiliated every single day.",
+        "possibilities-description-3": "People want to kill me.",
+        "model-advanced-price": "260,000",
+        "Purchase-of-an-advanced-device": "Purchase of an ADVANCED device",
+        "basic": "BASIC",
+        "tomans": "tomans",
+        "model-basic-price": "260,000",
+        "Purchase-of-an-basic-device": "Purchase of an BASIC device",
+        "number-1": "1",
+        "number-2": "2",
+        "number-3": "3"  
+    },
+    "footer": {
+        "footer-description": "Intelligent fire alarm system, a small action but a very important action"
     }
  }

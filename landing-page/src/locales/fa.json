@@ -1,6 +1,52 @@
 {
    "header":{
     "login":"ورود به پنل",
-    "order-fire-monitor":"سفارش فایر مانیتور"
-   }
+    "order-firemonitor":"سفارش فایرمانیتور"
+   },
+   "content": {
+      "firemonitor-software": "نرم افزار فایرمانیتور",
+      "firemonitor-software-description": "اطمینان و امنیت در هر لحظه با دستگاه هشدار حریق ما! هرگز نگران ایمنی خود در برابر آتش سوزی نباشید.",
+      "hero-title": "فایر مانیتور ، سیستم هوشمند اعلان حریق ،",
+      "hero-title-2": "یک اقدام کوچک اما با اهمیت بزرگ",
+      "smart-hardware": "سخت افزارهوشمند",
+      "immediate-notification-of-fire": "اعلان فوری حریق وآتش",
+      "monitoring-sensors": "مانیتورینگ سنسورها",
+      "intelligent-notification-system": "سیستم هوشمند اعلان",
+      "intelligent-notification-system-description": "سیستم هوشمند اعلان حریق،یک اقدام کوچک اما با اهمیت بزرگ یک اقدام",
+      "firemonitor-order-registration": "ثبت سفارش فایرمانیتور",
+      "firemonitor-order-registration-description": "برای سفارش،",
+      "firemonitor-order-registration-description-2": "کلیک کنید",
+      "firemonitor": "Firemonitor",
+      "firemonitor-description": "اطمینان و امنیت در هرلحظه با دستگاه هشدار حریق",
+      "features-of-firemonitor": "ویژگی های فایرمانیتور",
+      "features-of-firemonitor-description": "ویژگی های فایرمانیتور ویژگی های فایرمانیتور",
+      "order-firemonitor": "سفارش فایرمانیتور",
+      "immediate-online-notification-and-SMS-of-fire-danger": "اعلام فوری آنلاین و پیامکی خطرو حریق در کمتر از 1 دقیقه",
+      "immediate-online-notification-and-SMS-of-fire-danger-description": "ویژگی محصول",
+      "monitoring-sensors-description": "دستگاه اطفا حریق، با تشخیص خودکار حریق و عملکرد",
+      "direct-fire-department-access": "دسترسی مستقیم آتش نشانی",
+      "direct-fire-department-access-description": "دستگاه اطفا حریق، با تشخیص خودکار حریق و عملکرد سریع، سریع می تواند حریق را به سرعت کنترل کند",
+      "circuit-hardware-description": "شرح سخت افزاری مدار",
+      "temperature-control-kit": "کیت کنترل دما",
+      "temperature-control-kit-description": "البته گوگل نیز در مسیرش تنها نیست و دولت ایالات",
+      "firemonitor-tariffs": "تعرفه های فایرمانیتور",
+      "model": "مدل",
+      "advanced": "ADVANCED",
+      "possibilities": ":امکانات",
+      "possibilities-description-1": "امبرهرد در شهادت اخیرش گفت که دپ",
+      "possibilities-description-2": "تک تک روزها تهدید و تحقیر شدم»",
+      "possibilities-description-3": "مردم می خواهند من را بکشند»",
+      "model-advanced-price": "260000",
+      "Purchase-of-an-advanced-device": "خریداری دستگاه ADVANCED",
+      "basic": "BASIC",
+      "tomans": "تومان",
+      "model-basic-price": "260000",
+      "Purchase-of-an-basic-device": "خریداری دستگاه BASIC",
+      "number-1": "1",
+      "number-2": "2",
+      "number-3": "3"
+  },
+  "footer": {
+   "footer-description": "سیستم هوشمند اعلان حریق،یک اقدام کوچک اما با اهمیت بزرگ یک اقدام"
+}
 }
