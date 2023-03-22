@@ -28,7 +28,7 @@ const Content = () => {
                 src={plan3}
                 alt=""
               />
-              <div className="bg-[#E72F23] text-[#FFFFFF] sm:py-8 sm:px-7 p-[10px] rounded-3xl absolute sm:top-[80%] sm:right-0 right-[46%] h-full sm:h-auto">
+              <div className="bg-[#E72F23] text-[#FFFFFF] sm:py-4 sm:px-7 p-[10px] rounded-3xl absolute sm:top-[80%] sm:right-0 right-[46%] h-full sm:h-auto">
                 <div className="flex justify-end items-center sm:pb-3 pb-2">
                   <p className="sm:text-lg text-base font-black pr-3">
                     {t("content.firemonitor-software")}
@@ -36,7 +36,7 @@ const Content = () => {
                   <i className="sm:text-4xl text-2xl bi bi-wifi"></i>
                 </div>
                 <div className="text-right">
-                  <p className="sm:text-sm text-[10px] sm:leading-9 leading-6">
+                  <p className="sm:text-sm text-[10px] sm:leading-7 leading-6">
                     {t("content.firemonitor-software-description")}
                   </p>
                 </div>
