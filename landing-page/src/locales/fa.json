@@ -1,7 +1,7 @@
 {
    "header":{
     "login":"ورود به پنل",
-    "order-fire-monitor":"سفارش فایر مانیتور"
+    "order-firemonitor":"سفارش فایرمانیتور"
    },
    "content": {
       "firemonitor-software": "نرم افزار فایرمانیتور",

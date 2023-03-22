@@ -1,7 +1,7 @@
 {
     "header": {
      "login": "Enter Admin Panel",
-     "order-fire-monitor": "Order Fire Monitor"
+     "order-firemonitor": "Order Fire Monitor"
     },
     "content": {
         "firemonitor-software": "Firemonitor Software",
