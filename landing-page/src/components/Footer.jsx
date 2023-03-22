@@ -1,5 +1,5 @@
 import React from "react";
-import brand from "../assets/svgs/brand.svg"
+import brand from "../assets/svgs/brand.svg";
 
 const Footer = () => {
   return (
@@ -11,12 +11,16 @@ const Footer = () => {
             <i className="text-[#000000] text-base sm:text-3xl pr-4 bi bi-telegram"></i>
             <i className="text-[#000000] text-base sm:text-3xl pr-4 bi bi-whatsapp"></i>
           </div>
-          <p className="sm:text-2xl text-xs font-semibold pl-4 sm:my-0 my-[16px]"> 
+          <p className="sm:text-2xl text-xs font-semibold pl-4 sm:my-0 my-[16px]">
             سیستم هوشمند اعلان حریق،یک اقدام کوچک اما با اهمیت بزرگ یک اقدام
           </p>
           <div className="border-l-2 border-black h-24 hidden sm:block"></div>
           <div className="border-b-[1px] border-black h-2 w-10 sm:hidden block"></div>
-          <img className="w-[20px] h-[24px] sm:w-[84.21px] sm:h-[100px] sm:pl-4" src={brand} alt="" />
+          <img
+            className="w-[20px] h-[24px] sm:w-[84.21px] sm:h-[100px] sm:pl-4"
+            src={brand}
+            alt=""
+          />
         </div>
       </div>
     </div>

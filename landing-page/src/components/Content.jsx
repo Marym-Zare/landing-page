@@ -109,7 +109,7 @@ const Content = () => {
           <div className="sm:w-1/2 w-full h-1/3 sm:h-auto">
             <img className="w-full h-full sm:block hidden" src={video} alt="" />
             <img
-              className="w-[full] h-full sm:hidden block"
+              className="w-full h-full sm:hidden block"
               src={video2}
               alt=""
             />
@@ -200,7 +200,7 @@ const Content = () => {
             </div>
           </div>
         </div>
-        <div className="py-4 flex sm:flex-row flex-col sm:justify-between sm:mt-24 mt-10">
+        <div className="py-4 flex sm:flex-row flex-col-reverse sm:justify-between sm:mt-24 mt-10">
           <div className="flex items-center justify-end sm:justify-start sm:mb-0 mb-[21px]">
             <div className="text-right">
               <p className="sm:text-base text-sm text-[#FFFFFF] font-black sm:pt-0 pb-1">
@@ -261,8 +261,14 @@ const Content = () => {
             <div className="sm:w-[450px] w-[350px] bg-[#E72F23] sm:py-12 sm:px-[35px] p-6 text-right rounded-3xl sm:mr-8 mt-8 sm:mt-0 z-10">
               <div className="flex text-right justify-between items-center pt-2 sm:pb-10 pb-3">
                 <i className="text-[#130F26] sm:text-3xl text-2xl pr-6 bi bi-star-fill"></i>
-                <p className="sm:text-4xl text-2xl text-[#FFFFFF] font-bold">ADVANCED</p>
-                <p className="sm:text-4xl text-2xl text-[#FFFFFF] font-bold">مدل</p>
+                <div className="flex">
+                  <p className="sm:text-4xl text-2xl text-[#FFFFFF] font-bold">
+                    ADVANCED
+                  </p>
+                  <p className="sm:text-4xl text-2xl text-[#FFFFFF] font-bold pl-1">
+                    مدل
+                  </p>
+                </div>
               </div>
               <div>
                 <p className="text-lg text-[#FFFFFF] font-extrabold sm:block hidden">
@@ -285,11 +291,11 @@ const Content = () => {
                     <p>مردم می خواهند من را بکشند»</p>
                   </li>
                 </ul>
-                <p className="sm:text-4xl text-2xl text-[#FFFFFF] font-black sm:py-4 py-2">
-                  <span className="sm:text-4xl text-2xl text-[#FFFFFF] font-black">
-                    260000
-                  </span>
-                  تومان
+                <p
+                  dir="rtl"
+                  className="sm:text-4xl text-2xl text-[#FFFFFF] font-black sm:py-4 py-2"
+                >
+                  260000 تومان
                 </p>
                 <button className="sm:h-[45px] h-[33px] rounded-[80px] text-[#FFFFFF] sm:text-base text-sm font-normal border border-solid border-[#FFFFFF] pb-1 sm:px-6 px-[10px] sm:mt-4 mt-2">
                   ADVANCED خریداری دستگاه
@@ -300,10 +306,12 @@ const Content = () => {
               <div className="flex text-right justify-between items-center pt-2 sm:pb-10 pb-3">
                 <i className="text-[#FAFF00] sm:text-3xl text-2xl bi bi-star-fill"></i>
                 <div className="flex">
-                  <p className="sm:text-4xl text-2xl text-[#FD190A] font-bold px-6">
+                  <p className="sm:text-4xl text-2xl text-[#FD190A] font-bold">
                     BASIC
                   </p>
-                  <p className="sm:text-4xl text-2xl text-[#FFFFFF] font-bold">مدل</p>
+                  <p className="sm:text-4xl text-2xl text-[#FFFFFF] font-bold pl-1">
+                    مدل
+                  </p>
                 </div>
               </div>
               <div>
@@ -327,11 +335,11 @@ const Content = () => {
                     <p>مردم می خواهند من را بکشند»</p>
                   </li>
                 </ul>
-                <p className="sm:text-4xl text-2xl text-[#FFFFFF] font-black py-4">
-                  <span className="sm:text-4xl text-2xl text-[#FFFFFF] font-black">
-                    260000
-                  </span>
-                  تومان
+                <p
+                  dir="rtl"
+                  className="sm:text-4xl text-2xl text-[#FFFFFF] font-black py-4"
+                >
+                  260000 تومان
                 </p>
                 <button className="sm:h-[45px] h-[33px] rounded-[80px] text-[#FFFFFF] sm:text-base text-sm font-normal border border-solid border-[#FFFFFF] pb-1 sm:px-6 px-[10px] sm:mt-4 mt-2">
                   ADVANCED خریداری دستگاه
